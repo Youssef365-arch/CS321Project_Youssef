@@ -32,7 +32,7 @@ public class CentralGUI extends JFrame implements ActionListener {
     static WorkflowTable workflowtable;
 
     /**
-     * This method loads the central screen
+     * This method loads the central screen.
      */
     public static void loadCentralScreen(WorkflowTable wft) {
 
